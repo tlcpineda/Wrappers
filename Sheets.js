@@ -1,5 +1,5 @@
 /**
- * Get key sheets from either container sheet, or external.
+ * Get sheets from either container sheet, or external; or the Spreadsheet.
  * @param sheet_name {string} The name of the tab; if not set, will return the Spreadsheet.
  * @param url {string} The URL of the target Sheets file. If unspecified refers to the container sheet.
  * @return ss_data {Sheet} Return a Sheet of object, or Spreadsheet if param is set as "ss".
@@ -53,7 +53,7 @@ function get_range(sheet_name, tl_A1, param, url = "") {
 }
 
 /**
- * Write the array of values to the specified range. A mask of Range.setValues() method.
+ * Write the 2D array of values to the specified range. A mask of Range.setValues() method.
  * @param range {Range} Range object on where to write the values.
  * @param values {object} 2D array of values
  * @return {null}
