@@ -1,9 +1,9 @@
 /**
  * Format the date/datetime object to ISO string format.
  * @param {Object} datetime object with keys as :
- * - 'date' (REQUIRED);
- * - 'time' (OPTIONAL) defaults to '00:00:00.000'; and,
- * - 'tz' (OPTIONAL) in IANA format; defaults to 'Zulu'.
+ * - 'date' {string} (REQUIRED);
+ * - 'time' {string} (OPTIONAL) defaults to '00:00:00.000'; and,
+ * - 'tz' {string} (OPTIONAL) in IANA format; defaults to 'Zulu'.
  *
  * @returns {string} The formatted datetime string.
  */
