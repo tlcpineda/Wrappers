@@ -27,4 +27,4 @@
 * [Colors](https://developers.google.com/workspace/calendar/api/v3/reference/colors) - resource representation from Calendar API v3
 
 
-![Calendar UI](./images/cal_colours.png)
+![Calendar UI](./images/cal_colours.png | width = 100)
