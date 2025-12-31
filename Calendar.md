@@ -25,3 +25,6 @@
 
 * [Enum EventColor](https://developers.google.com/apps-script/reference/calendar/event-color) - named event colours as used in CalendarApp service
 * [Colors](https://developers.google.com/workspace/calendar/api/v3/reference/colors) - resource representation from Calendar API v3
+
+
+![image info](./images/cal_colours.png)
