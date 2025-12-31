@@ -10,7 +10,7 @@
 **Colour Map Between Calendar API (v3) and CalendarApp Service**
 
 | Color ID | Sample | Calendar UI Label | Enum Property | Hex Code | 
-|:---------|:-------|:------------------|:--------------|:---------|
+|:--------:|:------:|:-----------------:|:-------------:|:--------:|
 |  1 | $${\color{#A4BDFC}██████}$$ | Peacock | PALE_BLUE | #A4BDFC |
 |  2 | $${\color{#7AE7BF}██████}$$ | Sage | PALE_GREEN | #7AE7BF |
 |  3 | $${\color{#DBADFF}██████}$$ | Grape | MAUVE | #DBADFF |
