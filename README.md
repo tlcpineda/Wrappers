@@ -3,7 +3,8 @@
 This is a collection of wrapper functions of frequently used methods in Google Apps Script.
 
 ## Utilities
-8 **format_as_iso** - Return datetime string in ISO format
+* **format_as_iso** - Return datetime string in ISO format
+
 ## Sheets.gs
 * **get_ss** - Get Spreadsheet or Sheet object.
 * **get_range** - Get the Range object.
@@ -13,7 +14,7 @@ This is a collection of wrapper functions of frequently used methods in Google A
 (to be updated...)
 
 ## Calendar
-(to be updated...)
+[Calendar](Calendar.md)
 
 ## Doc
 (to be updated...)
