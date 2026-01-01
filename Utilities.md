@@ -1,6 +1,6 @@
 # Class Utilities Resources and References
 
-## [Functions]{Utilities.js}
+## [Functions](Utilities.js)
 
 * **format_as_iso** - takes date/datetime string (with option to include time, and time zone) as an object; return date string in ISO format 'yyyy-MM-ddTHH:mm:ssSSSXXX'
 * **get_week_num** - takes date/datetime string; returns week number as a string 'w'
