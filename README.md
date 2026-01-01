@@ -5,6 +5,7 @@ This is a collection of wrapper functions of frequently used methods in Google A
 ## Resources by App or Class
 
 * [Utilities](Utilities.md) - wrapper function for Class Utilities, along with reference to formatting datetime string output
+* Properties - (to be updated ...)
 * Sheets - (to be updated ...)
 * Drive - (to be updated ...)
 * [Calendar](Calendar.md) - wrapper functions with Calendar API v3, along with colour reference for both Calendar API v3 and CalendarApp service.
