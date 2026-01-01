@@ -1,8 +1,9 @@
 # Class Utilities Resources and References
 
-## Functions
+## [Functions]{Utilities.js}
 
-(to be updated ...)
+* **format_as_iso** - takes date/datetime string (with option to include time, and time zone) as an object; return date string in ISO format 'yyyy-MM-ddTHH:mm:ssSSSXXX'
+* **get_week_num** - takes date/datetime string; returns week number as a string 'w'
 
 ## [JAVA SE SimpleDateFormat Class](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
 
